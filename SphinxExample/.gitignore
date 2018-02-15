@@ -18,3 +18,4 @@ html/_sources
 html/.buildinfo
 html/*.inv
 html/*.js
+.gitignore
