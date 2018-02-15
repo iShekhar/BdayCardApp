@@ -1,8 +1,0 @@
-Title of manually added documentation rst file
-==============================================
-
-Subtitle
---------
-
-Manually added contents go here
-
