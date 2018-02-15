@@ -1,0 +1,11 @@
+Sphinx demo module
+===================
+
+The documentation of sphinx_demo should be visible below:
+
+.. automodule:: sphinx_demo
+	:members:
+	:undoc-members:
+        :inherited-members:
+	:show-inheritance:
+  
