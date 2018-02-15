@@ -14,3 +14,7 @@ _templates
 make.bat
 Makefile
 .idea
+html/_sources
+html/.buildinfo
+html/*.inv
+html/*.js
